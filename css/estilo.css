@@ -1,84 +1,94 @@
 html {
-	cursor: url(../imagens/mata_mosquito.png) 30 30, auto;
-   }
-   
-   body {
-	background-image: url(../imagens/bg.jpg);
-	background-repeat: no-repeat;
-	background-size: cover; 
-	background-position: center center;
-	height: 100vh; 
-	}
-   
-   .mosquito1 {
-	width: 10vw; 
-	height: 10vw;
-   }
-   
-   .mosquito2 {
-	width: 13vw; 
-	height: 13vw;
-   }
-   
-   .mosquito3 {
-	width: 16vw; 
-	height: 16vw;
-   }
-   
-   .ladoA {
-	transform: scaleX(1);
-   }
-   
-   .ladoB {
-	transform: scaleX(-1);
-   }
-   
-   .painel {
-	   position: fixed; 
-	   width: 90%;
-	   padding: 10px;
-	   left: 5%; 
-	   bottom: 0px;
-	   border-top: solid 1px #fff;
-	   background-color: #fff;
-	   opacity: 0.7;
-	   display: flex;
-	   justify-content: space-between; 
-   }
-   
-   .vidas {
-	   float: none; 
-   }
-   
-   .cronometro {
-	float: none;
-	font-size: 18px;
-	font-weight: bold;
-   }
-	   
+    cursor: url(../imagens/mata_mosquito.png) 30 30, auto;
+}
 
-   @media (max-width: 768px) {
-	   .mosquito1 {
-		   width: 15vw; 
-		   height: 15vw;
-	   }
-	   .mosquito2 {
-		   width: 18vw;
-		   height: 18vw;
-	   }
-	   .mosquito3 {
-		   width: 21vw;
-		   height: 21vw;
-	   }
-   
-	   .painel {
-		   width: 95%;
-		   left: 2.5%;
-		   font-size: 14px;
-	   }
-   
-	   .cronometro {
-		   font-size: 16px;
-	   }
-   
-   }
+body {
+    background-image: url(../imagens/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+    margin: 0; 
+}
+
+.mosquito1 {
+    width: 10vw;
+    height: 10vw;
+}
+
+.mosquito2 {
+    width: 13vw;
+    height: 13vw;
+}
+
+.mosquito3 {
+    width: 16vw;
+    height: 16vw;
+}
+
+.ladoA {
+    transform: scaleX(1);
+}
+
+.ladoB {
+    transform: scaleX(-1);
+}
+
+.painel {
+    position: fixed;
+    width: 90%;
+    max-width: 700px;  
+    padding: 10px;
+    left: calc(50% - 45%); 
+    bottom: 0px;
+    border-top: solid 1px #fff;
+    background-color: #fff;
+    opacity: 0.7;
+    display: flex;
+    justify-content: space-between;
+}
+
+.vidas {
+    float: none;
+}
+
+.cronometro {
+    float: none;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+@media (min-width: 1200px){ 
+  .cronometro {
+		font-size: 22px;
+	}
+  .painel {
+      font-size: 18px;
+  }
+}
+
+@media (max-width: 768px) {
+    .mosquito1 {
+        width: 15vw;
+        height: 15vw;
+    }
+    .mosquito2 {
+        width: 18vw;
+        height: 18vw;
+    }
+    .mosquito3 {
+        width: 21vw;
+        height: 21vw;
+    }
+
+    .painel {
+        width: 95%;
+        left: calc(50% - 47.5%); 
+        font-size: 14px;
+        max-width: none; 
+    }
+
+    .cronometro {
+        font-size: 16px;
+    }
+}
