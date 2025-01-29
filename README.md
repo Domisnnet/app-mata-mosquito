@@ -1,6 +1,6 @@
 # Bem-vindo ao Mata Mosquito! 🦟
 
-![Mata Mosquito](iPad-Air-5-820x1180.png)
+![Mata Mosquito](src/imagens/iPad-Air-5-820x1180.png)
 
 Prepare-se para testar seus reflexos neste divertido e desafiador jogo de ação!
 
@@ -19,7 +19,7 @@ Em **Mata Mosquito**, seu objetivo é simples: eliminar o máximo de mosquitos q
 2.  **Iniciando o Jogo:** Selecione um nível e clique no botão abaixo para começar:
 
 <a href="https://domisnnet.github.io/app-mata-mosquito/app.html?normal">
-  <img src="src/imagens/coracao_cheio.png" alt="Iniciar Jogo">
+  <img src="src/imagens/botão.webp" width="35px" height="35px" alt="Iniciar Jogo">
 </a>
 
 3. **Controles:**
@@ -65,7 +65,7 @@ Gostou do jogo? Para ver o código-fonte e contribuir com o projeto, acesse:
 Escolha um nível acima e prepare-se para a ação!
 
 <a href="https://domisnnet.github.io/app-mata-mosquito/app.html?normal">
-  <img src="src/imagens/coracao_cheio.png" alt="Iniciar Jogo">
+  <img src="src/imagens/botão.webp" width="35px" height="35px" alt="Iniciar Jogo">
 </a>
 
 ---
