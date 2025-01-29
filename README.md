@@ -17,7 +17,7 @@ Mata Mosquito é um jogo de ação simples, mas desafiador, onde seu objetivo é
 
 2.  **Iniciando o Jogo:** Após escolher o nível, clique no botão abaixo:
 
-   [![Iniciar Jogo](https://via.placeholder.com/150x50/28a745/ffffff?text=Iniciar+Jogo)](./app.html?normal)
+   [![Iniciar Jogo](https://domisnnet.github.io/app-mata-mosquito/)](./app.html?normal)
 
 3. **Controles:**
    - [x] **Clicar no mosquito:**  Clique no mosquito para eliminá-lo.
@@ -59,7 +59,7 @@ Para ver o código-fonte do jogo e contribuir, acesse: [https://domisnnet.github
 
 Escolha um nível acima e prepare-se para a ação:
 
-[![Iniciar Jogo](https://via.placeholder.com/150x50/28a745/ffffff?text=Iniciar+Jogo)](./app.html?normal)
+[![Iniciar Jogo](https://domisnnet.github.io/app-mata-mosquito/)](./app.html?normal)
 
 ---
 
