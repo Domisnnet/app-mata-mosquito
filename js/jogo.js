@@ -55,7 +55,7 @@ function posicaoRandomica() {
 
 			window.location.href = 'fim_de_jogo.html'
 		} else {
-			document.getElementById('v' + vidas).src = "imagens/coracao_vazio.png"
+			document.getElementById('v' + vidas).src = "src/imagens/coracao_vazio.png"
 
 			vidas++
 		}
@@ -71,7 +71,7 @@ function posicaoRandomica() {
 
 	//criar o elemento html
 	let mosquito = document.createElement('img')
-	mosquito.src = 'imagens/mosquito.png'
+	mosquito.src = 'src/imagens/mosquito.png'
 	mosquito.className = tamanhoAleatorio() + ' ' + ladoAleatorio()
 	mosquito.style.left = posicaoX + 'px'
 	mosquito.style.top = posicaoY + 'px'
