@@ -9,6 +9,8 @@ body {
     background-position: center center;
     height: 100vh;
     margin: 0; 
+	overflow: hidden;
+	padding-top: 30px;
 }
 
 .mosquito1 {
