@@ -1,4 +1,4 @@
-# Bem-vindo ao Mata Mosquito! 🦟
+# Bem-vindo ao Mata Mosquito! 
 
 ![Mata Mosquito](src/imagens/iPad-Air-5-820x1180.png)
 
