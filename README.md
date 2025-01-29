@@ -2,65 +2,68 @@
 
 ![Mata Mosquito](iPad-Air-5-820x1180.png)
 
-Este é um README interativo para te guiar pelo nosso jogo de reflexos rápidos e diversão garantida.
+Prepare-se para testar seus reflexos neste divertido e desafiador jogo de ação!
 
 ## Sobre o Jogo 🕹️
 
-Mata Mosquito é um jogo de ação simples, mas desafiador, onde seu objetivo é eliminar o máximo de mosquitos que conseguir antes que o tempo acabe. A cada mosquito que você não consegue eliminar, uma vida é perdida. Mas não desanime, mostre que você consegue!
+Em **Mata Mosquito**, seu objetivo é simples: eliminar o máximo de mosquitos que conseguir antes que o tempo acabe. Mas cuidado! A cada mosquito que escapar, você perde uma vida. Não deixe os mosquitos vencerem!
 
 ## Como Jogar 🎮
 
-1. **Seleção de Nível:** Escolha o nível de dificuldade antes de iniciar:
-   - [x] **Normal:** Uma dificuldade equilibrada para todos os jogadores, com um tempo de resposta de 1,5s entre mosquitos.
-   - [ ] **Difícil:** Um desafio para quem busca mais emoção, com tempo de resposta de 1s.
-   - [ ] **Chuck Norris:** A dificuldade máxima para os mais corajosos, com um tempo de resposta menor que 1s!!!
+1. **Seleção de Nível:** Escolha a dificuldade que melhor se adequa ao seu desafio:
 
-2.  **Iniciando o Jogo:** Após escolher o nível, clique no botão abaixo:
+    - [x] **Normal:** Ideal para todos os jogadores, com mosquitos surgindo a cada 1.5 segundos.
+    - [ ] **Difícil:** Um desafio maior, com mosquitos mais rápidos, surgindo a cada 1 segundo.
+    - [ ] **Chuck Norris:** Para os mais corajosos! Mosquitos rápidos como um raio, surgindo em menos de 1 segundo.
 
-   [![Iniciar Jogo](https://domisnnet.github.io/app-mata-mosquito/)](./app.html?normal)
+2.  **Iniciando o Jogo:** Selecione um nível e clique no botão abaixo para começar:
+
+   [![Iniciar Jogo](https://domisnnet.github.io/app-mata-mosquito/)](https://domisnnet.github.io/app-mata-mosquito/)
 
 3. **Controles:**
-   - [x] **Clicar no mosquito:**  Clique no mosquito para eliminá-lo.
-   - [ ] **Tempo:** O jogo termina quando o tempo chegar a zero.
-   - [ ] **Vidas:** Você começa com 3 vidas. Se deixar 3 mosquitos escaparem, o jogo acaba.
+    - [x] **Clique nos Mosquitos:**  Use o clique do mouse para eliminar os mosquitos que surgem na tela.
+    - [ ] **Tempo:** A partida termina quando o tempo se esgota (15 segundos).
+    - [ ] **Vidas:** Você começa com 3 vidas. A cada mosquito perdido, uma vida é reduzida. Ao perder as três vidas, o jogo acaba.
 
 ## Tecnologias Utilizadas ⚙️
 
-Este jogo foi desenvolvido com:
+Este jogo foi desenvolvido usando:
 
-- HTML5, CSS3 e JavaScript para a estrutura, estilos e lógica do jogo.
-- Bootstrap para um layout responsivo e fácil de usar em diferentes dispositivos.
+- **HTML5**, **CSS3** e **JavaScript**: Para a estrutura, estilo e lógica do jogo.
+- **Bootstrap**: Para um layout responsivo e adaptável a diferentes dispositivos.
 
 ## Código Fonte 💻
 
-Para ver o código-fonte do jogo e contribuir, acesse: [https://domisnnet.github.io/app-mata-mosquito/]
+Gostou do jogo? Para ver o código-fonte e contribuir com o projeto, acesse:
+
+[Repositório do Mata Mosquito](https://domisnnet.github.io/app-mata-mosquito/)
 
 ## Créditos 📝
 
-- Desenvolvedores: [DomisDev]
-- Imagens: Imagens criadas para o projeto.
-- Bibliotecas e Fontes: Bootstrap para estilo e componentes responsivos.
+- **Desenvolvedor:** DomisDev
+- **Imagens:** Criadas especificamente para este projeto.
+- **Bibliotecas:** Bootstrap para os estilos e componentes responsivos.
 
 ## FAQ 🤔
 
-**Pergunta 1:** Como eu reinicio o jogo?
+**Pergunta 1:** Como faço para reiniciar o jogo?
 
-   **Resposta:** Após o fim de jogo, clique no botão "Reiniciar" para começar novamente.
-    
-**Pergunta 2:** O que acontece se eu não clicar em um mosquito?
+   **Resposta:** Ao final da partida, clique no botão "Reiniciar" para começar novamente com a dificuldade desejada.
 
-   **Resposta:** Uma vida é perdida a cada mosquito que escapar, e quando você perde 3 vidas, o jogo acaba.
+**Pergunta 2:** O que acontece se eu deixar um mosquito escapar?
 
-**Pergunta 3:** Como funciona o cronômetro do jogo?
+   **Resposta:** Você perde uma vida. Ao perder todas as três vidas, o jogo termina.
 
-   **Resposta:** O jogo tem um cronômetro regressivo de 15 segundos. Ao final do tempo, o jogo termina.
+**Pergunta 3:** Qual a duração do jogo?
+
+   **Resposta:** Cada partida tem a duração de 15 segundos.
 
 ## Comece a Jogar! 🚀
 
-Escolha um nível acima e prepare-se para a ação:
+Escolha um nível acima e prepare-se para a ação!
 
-[![Iniciar Jogo](https://domisnnet.github.io/app-mata-mosquito/)](./app.html?normal)
+[![Iniciar Jogo](https://domisnnet.github.io/app-mata-mosquito/)](https://domisnnet.github.io/app-mata-mosquito/)
 
 ---
 
-Divirta-se muito eliminando esses mosquitos! 🎉
+Divirta-se eliminando todos os mosquitos! 🎉
