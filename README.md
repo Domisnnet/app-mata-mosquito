@@ -20,7 +20,7 @@ Em **Mata Mosquito**, seu objetivo é simples: eliminar o máximo de mosquitos q
 ---
 
 <a href="https://domisnnet.github.io/app-mata-mosquito/app.html?normal">
-  <img src="src/imagens/botão.webp" width="35px" height="35px" alt="Iniciar Jogo">Iniciar o Jogo
+  <img src="src/imagens/botão.webp" width="35px" height="35px" alt="Iniciar Jogo"> Iniciar o Jogo
 </a>
 
 ---
