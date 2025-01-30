@@ -59,3 +59,11 @@ body {
     font-size: 18px;
     font-weight: bold;
 }
+
+.btn-custom {
+    padding: 15px 30px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin: 15px;
+    border-radius: 10px;
+}
