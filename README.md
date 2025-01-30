@@ -60,14 +60,6 @@ Gostou do jogo? Para ver o código-fonte e contribuir com o projeto, acesse:
 
    **Resposta:** Cada partida tem a duração de 15 segundos.
 
-## Comece a Jogar! 🚀
-
-Escolha um nível acima e prepare-se para a ação!
-
-<a href="https://domisnnet.github.io/app-mata-mosquito/app.html?normal">
-  <img src="src/imagens/botão.webp" width="35px" height="35px" alt="Iniciar Jogo">
-</a>
-
 ---
 
 Divirta-se eliminando todos os mosquitos! 🎉
