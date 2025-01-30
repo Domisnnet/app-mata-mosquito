@@ -17,11 +17,13 @@ Em **Mata Mosquito**, seu objetivo é simples: eliminar o máximo de mosquitos q
     - [ ] **Chuck Norris:** Para os mais corajosos! Mosquitos rápidos como um raio, surgindo em menos de 1 segundo.
 
 2.  **Iniciando o Jogo:** Selecione um nível e clique no botão abaixo para começar:
+---
 
 <a href="https://domisnnet.github.io/app-mata-mosquito/app.html?normal">
   <img src="src/imagens/botão.webp" width="35px" height="35px" alt="Iniciar Jogo">
 </a>
 
+---
 3. **Controles:**
     - [x] **Clique nos Mosquitos:**  Use o clique do mouse para eliminar os mosquitos que surgem na tela.
     - [ ] **Tempo:** A partida termina quando o tempo se esgota (15 segundos).
