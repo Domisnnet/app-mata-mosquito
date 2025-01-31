@@ -62,6 +62,14 @@ Gostou do jogo? Para ver o código-fonte e contribuir com o projeto, acesse:
 
    **Resposta:** Cada partida tem a duração de 15 segundos.
 
+**Pergunta 4:** Como posso entrar em contato com o desenvolvedor?
+
+   **Resposta:** Você pode entrar em contato através do perfil do GitHub: 
+
+<a href="https://github.com/Domisnnet">
+    <img src="src/imagens/DomisDev.png" width="60px" height="60px" alt="Acessar perfil GitHub">
+    DomisDev
+</a> 
 ---
 
 Divirta-se eliminando todos os mosquitos! 🎉
