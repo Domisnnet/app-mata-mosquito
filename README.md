@@ -70,6 +70,7 @@ Gostou do jogo? Para ver o código-fonte e contribuir com o projeto, acesse:
     <img src="src/imagens/DomisDev.png" width="60px" height="60px" alt="Acessar perfil GitHub">
     DomisDev
 </a> 
+
 ---
 
 Divirta-se eliminando todos os mosquitos! 🎉
