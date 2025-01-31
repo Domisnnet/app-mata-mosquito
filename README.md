@@ -19,7 +19,7 @@ Em **Mata Mosquito**, seu objetivo é simples: eliminar o máximo de mosquitos q
 2.  **Iniciando o Jogo:** Selecione um nível e clique no botão abaixo para começar:
 ---
 
-<a href="https://domisnnet.github.io/app-mata-mosquito/app.html?normal">
+<a href="https://domisnnet.github.io/app-mata-mosquito/app.html?normal" target="_blank" rel="noopener noreferrer">
   <img src="src/imagens/botão.webp" width="35px" height="35px" alt="Iniciar Jogo">
 </a>
 
