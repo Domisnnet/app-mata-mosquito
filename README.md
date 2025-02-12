@@ -44,7 +44,7 @@ Gostou do jogo? Para ver o código-fonte e contribuir com o projeto, acesse:
 
 ## Créditos 📝
 
-- **Desenvolvedor:** <strng>DomisDev</strong>
+- **Desenvolvedor:** **DomisDev**
 - **Imagens:** Criadas especificamente para este projeto.
 - **Bibliotecas:** Bootstrap para os estilos e componentes responsivos.
 
