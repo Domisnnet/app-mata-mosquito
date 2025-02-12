@@ -48,6 +48,10 @@ Gostou do jogo? Para ver o código-fonte e contribuir com o projeto, acesse:
 - **Imagens:** Criadas especificamente para este projeto.
 - **Bibliotecas:** Bootstrap para os estilos e componentes responsivos.
 
+## 📄 Licença
+
+Este projeto é open source e está licenciado sob a Licença MIT. veja o arquivo [LICENSE](LICENSE) para detalhes.  Use, modifique e compartilhe!
+
 ## FAQ 🤔
 
 **Pergunta 1:** Como faço para reiniciar o jogo?
